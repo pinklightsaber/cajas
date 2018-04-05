@@ -1,0 +1,17 @@
+.product {
+	border:solid 1px black;
+	padding: 20px;
+	width: 300px;
+	margin-right: 20px;
+	float: left;
+}
+.product h4{
+	position: relative;
+	top: -84px;
+	padding: 10px;
+	background-color: rgba(0,0,0,0.8);
+	color:white;
+}
+.product img{
+	max-width: 100%;
+}
